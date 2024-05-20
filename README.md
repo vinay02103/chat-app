@@ -34,8 +34,8 @@ npm install
 Create a .env file in the root directory and add the following variables:
 ```bash
   PORT=3000
-  MONGODB_CONNECT=your_mongodb_connection_string
-  JWT_SECRET=your_jwt_secret
+  MONGODB_CONNECT=mongodb+srv://chatappcom:MIw6lS8a89DwYP1q@cluster0.fxtawyw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+  JWT_SECRET=kjndrfulkgdijbo
 ```
 4.Start the application:
 ```bash
