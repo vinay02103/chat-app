@@ -8,9 +8,9 @@ This project is a chat application built as part of an internship assignment. It
 This is a chat application that allows users to communicate in real-time. It provides features for sending and receiving messages, as well as viewing the list of online users. The application is built using Node.js, Express, Socket.IO, and MongoDB.
 ## Technologies Used
 
-**frontend:** React, Redux, TailwindCSS,html,javascript
+**frontend:** React,nextjs,TailwindCSS,html,javascript
 
-**backend:** Node, Express,Socket.IO,mongoDB,Mongoose
+**backend:** Node, Express,Socket.IO,mongoDB,Mongoose,Jwt tokens
 
 
 ## Installation
