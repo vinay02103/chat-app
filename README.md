@@ -1,7 +1,7 @@
 
 # Chat Application
 
-A brief description of what this project does and who it's for
+This project is a chat application built as part of an internship assignment. It provides real-time messaging functionality, allowing users to communicate with each other instantly. The application is designed for anyone who needs a simple and efficient way to chat with others online. Whether it's for personal use or any other communication needs, this chat application serves as a convenient platform for exchanging messages in real-time.
 
 
 ## Overview
